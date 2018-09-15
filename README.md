@@ -1,9 +1,2 @@
-
-<html>
-<head>
-	<title> website files for bmhs musical 2018 </title>
-</head>
-<body>
-Created by Billy Begos, and the website is bmhsmusical.com
-</body>
-</html>
+#website files for the bmhs musical 2018
+Created by Billy Begism and the website is bmhsmusical.com
